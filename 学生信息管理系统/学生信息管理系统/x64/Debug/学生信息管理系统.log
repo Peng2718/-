@@ -1,0 +1,7 @@
+﻿  Student.cpp
+  System.cpp
+  data.cpp
+E:\C++学习\学生信息管理系统\学生信息管理系统\data.cpp(64,12): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  学生信息管理系统.vcxproj -> E:\C++学习\学生信息管理系统\x64\Debug\学生信息管理系统.exe
